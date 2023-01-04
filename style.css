@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    background-color: firebrick;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.focus{
+    margin: 100px auto;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+}
+.intro{
+    margin-bottom: 50px;
+    font-size: 25px;
+    color: white;
+    
+}
+#input{
+    margin-top: 20px;
+    font-size: 25px;
+    width: 100px;
+    height: 75px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+
+}
+#btn{
+    font-size: 30px;
+    display: block;
+    margin: 50px auto 0px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    
+}
+.intro label{
+    font-weight: 600;
+    
+}
+
+.olcumler{
+    border: 3px solid green;
+}
+
+.olcum-1{
+    border: 3px solid green;
+}
+.olcum-2{
+    border: 3px solid green;
+}
+.olcum-3{
+    border: 3px solid green;
+}
+
+h5{
+    color: white;
+}
+
+
+
+
