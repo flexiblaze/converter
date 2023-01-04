@@ -36,6 +36,7 @@ body{
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
     
 }
 .intro label{
@@ -45,20 +46,26 @@ body{
 
 .olcumler{
     border: 3px solid green;
+    background-color: blueviolet;
 }
 
 .olcum-1{
-    border: 3px solid green;
+    border-bottom: 1px solid green;
 }
 .olcum-2{
-    border: 3px solid green;
+    border-bottom: 1px solid green;
 }
 .olcum-3{
-    border: 3px solid green;
+    border-bottom: 1px solid green;
 }
 
 h5{
     color: white;
+}
+
+.focus .intro{
+    background-color: burlywood;
+    border-radius: 4px;
 }
 
 
